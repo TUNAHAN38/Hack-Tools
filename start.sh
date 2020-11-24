@@ -9,7 +9,7 @@ echo -e '\033[31;40;1m
 		   ───▐██──▀▀──▀▀──██▌───
 		   ──▄████▄──▐▌──▄████▄──
 
-      \e[35m      ☠         Code  : YamanEfkar     ☠
+      \e[35m      ☠         Code  : Tunahan     ☠
 	  \e[34m☠	     Github : YamanEfkar       ☠
 	 \e[33m☠  	    Youtube : YamanEfkar        ☠
 	\e[32m☠ 	   İnstagram : @yamanefkarr      ☠
